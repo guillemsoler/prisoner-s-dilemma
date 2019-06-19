@@ -1,0 +1,11 @@
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\bin\Debug\netcoreapp2.1\prisoneers_dilema.deps.json
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\bin\Debug\netcoreapp2.1\prisoneers_dilema.runtimeconfig.json
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\bin\Debug\netcoreapp2.1\prisoneers_dilema.runtimeconfig.dev.json
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\bin\Debug\netcoreapp2.1\prisoneers_dilema.dll
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\bin\Debug\netcoreapp2.1\prisoneers_dilema.pdb
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.csprojAssemblyReference.cache
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.csproj.CoreCompileInputs.cache
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.AssemblyInfoInputs.cache
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.AssemblyInfo.cs
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.dll
+C:\Users\gsoler\source\repos\prisoneers_dilema\prisoneers_dilema\obj\Debug\netcoreapp2.1\prisoneers_dilema.pdb
